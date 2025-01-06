@@ -1,0 +1,14 @@
+E:\c#_gitcom\first\bin\Debug\net8.0\first.exe
+E:\c#_gitcom\first\bin\Debug\net8.0\first.deps.json
+E:\c#_gitcom\first\bin\Debug\net8.0\first.runtimeconfig.json
+E:\c#_gitcom\first\bin\Debug\net8.0\first.dll
+E:\c#_gitcom\first\bin\Debug\net8.0\first.pdb
+E:\c#_gitcom\first\obj\Debug\net8.0\first.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\first\obj\Debug\net8.0\first.AssemblyInfoInputs.cache
+E:\c#_gitcom\first\obj\Debug\net8.0\first.AssemblyInfo.cs
+E:\c#_gitcom\first\obj\Debug\net8.0\first.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\first\obj\Debug\net8.0\first.dll
+E:\c#_gitcom\first\obj\Debug\net8.0\refint\first.dll
+E:\c#_gitcom\first\obj\Debug\net8.0\first.pdb
+E:\c#_gitcom\first\obj\Debug\net8.0\first.genruntimeconfig.cache
+E:\c#_gitcom\first\obj\Debug\net8.0\ref\first.dll
