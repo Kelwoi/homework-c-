@@ -1,0 +1,15 @@
+E:\c#_gitcom\Vectors_3_level\bin\Debug\net8.0\Vectors_3_level.exe
+E:\c#_gitcom\Vectors_3_level\bin\Debug\net8.0\Vectors_3_level.deps.json
+E:\c#_gitcom\Vectors_3_level\bin\Debug\net8.0\Vectors_3_level.runtimeconfig.json
+E:\c#_gitcom\Vectors_3_level\bin\Debug\net8.0\Vectors_3_level.dll
+E:\c#_gitcom\Vectors_3_level\bin\Debug\net8.0\Vectors_3_level.pdb
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.AssemblyInfoInputs.cache
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.AssemblyInfo.cs
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.sourcelink.json
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.dll
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\refint\Vectors_3_level.dll
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.pdb
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\Vectors_3_level.genruntimeconfig.cache
+E:\c#_gitcom\Vectors_3_level\obj\Debug\net8.0\ref\Vectors_3_level.dll

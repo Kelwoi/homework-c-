@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vectors_3_level/1.0.0": {
+        "runtime": {
+          "Vectors_3_level.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vectors_3_level/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
