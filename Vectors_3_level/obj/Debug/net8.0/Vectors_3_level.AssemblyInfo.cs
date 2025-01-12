@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vectors_3_level")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be50e543411d1dd254ad15d896f58cf7c3078795")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1946e9bd6f4973637e030018867e214813dacba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vectors_3_level")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vectors_3_level")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

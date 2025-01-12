@@ -17,6 +17,20 @@ namespace Vectors_3_level
             Y = y;
             Z = z;
         }
+        public Vectors_3(int min = 0, int max = 100) {
+            var rand = new Random();
+            X = rand.Next(min, max);
+            Y = rand.Next(min, max);
+            Z = rand.Next(min, max);
+        }
+        public Vectors_3()
+        {
+            int min = 0, max = 100;
+            var rand = new Random();
+            X = rand.Next(min, max);
+            Y = rand.Next(min, max);
+            Z = rand.Next(min, max);
+        }
         public Vectors_3 multiplication(int value)
         {
             Vectors_3 res = new Vectors_3(X*value,Y *value,Z *value);

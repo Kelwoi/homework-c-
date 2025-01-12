@@ -6,7 +6,9 @@ internal class Program
     {
         Vectors_3 res = new Vectors_3(5,4,5);
         Vectors_3 res2 = new Vectors_3(2,2,2);
+        Vectors_3 res_rand = new Vectors_3(10,20);
         Vectors_3 res1 = res.plus(res2);
         res1.Show();
+        res_rand.Show();
     }
 }
