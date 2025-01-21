@@ -1,0 +1,15 @@
+E:\c#_gitcom\delegate\bin\Debug\net8.0\delegate.exe
+E:\c#_gitcom\delegate\bin\Debug\net8.0\delegate.deps.json
+E:\c#_gitcom\delegate\bin\Debug\net8.0\delegate.runtimeconfig.json
+E:\c#_gitcom\delegate\bin\Debug\net8.0\delegate.dll
+E:\c#_gitcom\delegate\bin\Debug\net8.0\delegate.pdb
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.AssemblyInfoInputs.cache
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.AssemblyInfo.cs
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.sourcelink.json
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.dll
+E:\c#_gitcom\delegate\obj\Debug\net8.0\refint\delegate.dll
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.pdb
+E:\c#_gitcom\delegate\obj\Debug\net8.0\delegate.genruntimeconfig.cache
+E:\c#_gitcom\delegate\obj\Debug\net8.0\ref\delegate.dll
