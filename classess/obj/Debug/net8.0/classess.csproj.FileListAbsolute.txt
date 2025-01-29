@@ -1,0 +1,15 @@
+E:\c#_gitcom\classess\bin\Debug\net8.0\classess.exe
+E:\c#_gitcom\classess\bin\Debug\net8.0\classess.deps.json
+E:\c#_gitcom\classess\bin\Debug\net8.0\classess.runtimeconfig.json
+E:\c#_gitcom\classess\bin\Debug\net8.0\classess.dll
+E:\c#_gitcom\classess\bin\Debug\net8.0\classess.pdb
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.AssemblyInfoInputs.cache
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.AssemblyInfo.cs
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.sourcelink.json
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.dll
+E:\c#_gitcom\classess\obj\Debug\net8.0\refint\classess.dll
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.pdb
+E:\c#_gitcom\classess\obj\Debug\net8.0\classess.genruntimeconfig.cache
+E:\c#_gitcom\classess\obj\Debug\net8.0\ref\classess.dll
