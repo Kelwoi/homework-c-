@@ -1,0 +1,15 @@
+E:\c#_gitcom\Credit card\bin\Debug\net8.0\Credit card.exe
+E:\c#_gitcom\Credit card\bin\Debug\net8.0\Credit card.deps.json
+E:\c#_gitcom\Credit card\bin\Debug\net8.0\Credit card.runtimeconfig.json
+E:\c#_gitcom\Credit card\bin\Debug\net8.0\Credit card.dll
+E:\c#_gitcom\Credit card\bin\Debug\net8.0\Credit card.pdb
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.AssemblyInfoInputs.cache
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.AssemblyInfo.cs
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.sourcelink.json
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.dll
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\refint\Credit card.dll
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.pdb
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\Credit card.genruntimeconfig.cache
+E:\c#_gitcom\Credit card\obj\Debug\net8.0\ref\Credit card.dll
