@@ -1,0 +1,15 @@
+E:\c#_gitcom\linq_home\bin\Debug\net8.0\linq_home.exe
+E:\c#_gitcom\linq_home\bin\Debug\net8.0\linq_home.deps.json
+E:\c#_gitcom\linq_home\bin\Debug\net8.0\linq_home.runtimeconfig.json
+E:\c#_gitcom\linq_home\bin\Debug\net8.0\linq_home.dll
+E:\c#_gitcom\linq_home\bin\Debug\net8.0\linq_home.pdb
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.AssemblyInfoInputs.cache
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.AssemblyInfo.cs
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.sourcelink.json
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.dll
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\refint\linq_home.dll
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.pdb
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\linq_home.genruntimeconfig.cache
+E:\c#_gitcom\linq_home\obj\Debug\net8.0\ref\linq_home.dll
