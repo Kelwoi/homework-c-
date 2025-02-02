@@ -1,0 +1,15 @@
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.AssemblyInfoInputs.cache
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.AssemblyInfo.cs
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.sourcelink.json
+E:\c#_gitcom\Moderation\bin\Debug\net8.0\Moderation.exe
+E:\c#_gitcom\Moderation\bin\Debug\net8.0\Moderation.deps.json
+E:\c#_gitcom\Moderation\bin\Debug\net8.0\Moderation.runtimeconfig.json
+E:\c#_gitcom\Moderation\bin\Debug\net8.0\Moderation.dll
+E:\c#_gitcom\Moderation\bin\Debug\net8.0\Moderation.pdb
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.dll
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\refint\Moderation.dll
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.pdb
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\Moderation.genruntimeconfig.cache
+E:\c#_gitcom\Moderation\obj\Debug\net8.0\ref\Moderation.dll
