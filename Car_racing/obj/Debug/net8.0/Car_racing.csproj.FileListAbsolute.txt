@@ -1,0 +1,15 @@
+E:\c#_gitcom\Car_racing\bin\Debug\net8.0\Car_racing.exe
+E:\c#_gitcom\Car_racing\bin\Debug\net8.0\Car_racing.deps.json
+E:\c#_gitcom\Car_racing\bin\Debug\net8.0\Car_racing.runtimeconfig.json
+E:\c#_gitcom\Car_racing\bin\Debug\net8.0\Car_racing.dll
+E:\c#_gitcom\Car_racing\bin\Debug\net8.0\Car_racing.pdb
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.AssemblyInfoInputs.cache
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.AssemblyInfo.cs
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.sourcelink.json
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.dll
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\refint\Car_racing.dll
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.pdb
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\Car_racing.genruntimeconfig.cache
+E:\c#_gitcom\Car_racing\obj\Debug\net8.0\ref\Car_racing.dll
