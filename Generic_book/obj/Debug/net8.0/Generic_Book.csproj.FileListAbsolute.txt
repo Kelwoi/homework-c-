@@ -1,0 +1,15 @@
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.AssemblyInfoInputs.cache
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.AssemblyInfo.cs
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.sourcelink.json
+E:\c#_gitcom\Generic_Book\bin\Debug\net8.0\Generic_Book.exe
+E:\c#_gitcom\Generic_Book\bin\Debug\net8.0\Generic_Book.deps.json
+E:\c#_gitcom\Generic_Book\bin\Debug\net8.0\Generic_Book.runtimeconfig.json
+E:\c#_gitcom\Generic_Book\bin\Debug\net8.0\Generic_Book.dll
+E:\c#_gitcom\Generic_Book\bin\Debug\net8.0\Generic_Book.pdb
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.dll
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\refint\Generic_Book.dll
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.pdb
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\Generic_Book.genruntimeconfig.cache
+E:\c#_gitcom\Generic_Book\obj\Debug\net8.0\ref\Generic_Book.dll
