@@ -1,0 +1,15 @@
+E:\c#_gitcom\Card_game\bin\Debug\net8.0\Card_game.exe
+E:\c#_gitcom\Card_game\bin\Debug\net8.0\Card_game.deps.json
+E:\c#_gitcom\Card_game\bin\Debug\net8.0\Card_game.runtimeconfig.json
+E:\c#_gitcom\Card_game\bin\Debug\net8.0\Card_game.dll
+E:\c#_gitcom\Card_game\bin\Debug\net8.0\Card_game.pdb
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.AssemblyInfoInputs.cache
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.AssemblyInfo.cs
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.sourcelink.json
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.dll
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\refint\Card_game.dll
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.pdb
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\Card_game.genruntimeconfig.cache
+E:\c#_gitcom\Card_game\obj\Debug\net8.0\ref\Card_game.dll
