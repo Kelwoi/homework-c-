@@ -1,0 +1,36 @@
+[
+  {
+    "Title": "Dragonborn",
+    "Artist": "play boy carti",
+    "Year": 2021,
+    "Duration": 301,
+    "Label": "X.O music",
+    "Songs": [
+      {
+        "Title": "Open up",
+        "Duration": 3,
+        "Genre": "rap"
+      },
+      {
+        "Title": "push up",
+        "Duration": 2,
+        "Genre": "hard pop"
+      },
+      {
+        "Title": "locked",
+        "Duration": 3,
+        "Genre": "sincerely"
+      },
+      {
+        "Title": "pre",
+        "Duration": 5,
+        "Genre": "har rock"
+      },
+      {
+        "Title": "closed down",
+        "Duration": 4,
+        "Genre": "pop"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+E:\c#_gitcom\Serializers\bin\Debug\net8.0\Serializers.exe
+E:\c#_gitcom\Serializers\bin\Debug\net8.0\Serializers.deps.json
+E:\c#_gitcom\Serializers\bin\Debug\net8.0\Serializers.runtimeconfig.json
+E:\c#_gitcom\Serializers\bin\Debug\net8.0\Serializers.dll
+E:\c#_gitcom\Serializers\bin\Debug\net8.0\Serializers.pdb
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.AssemblyInfoInputs.cache
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.AssemblyInfo.cs
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.sourcelink.json
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.dll
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\refint\Serializers.dll
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.pdb
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\Serializers.genruntimeconfig.cache
+E:\c#_gitcom\Serializers\obj\Debug\net8.0\ref\Serializers.dll
