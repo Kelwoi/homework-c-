@@ -1,0 +1,15 @@
+E:\c#_gitcom\inheritances\bin\Debug\net8.0\inheritances.exe
+E:\c#_gitcom\inheritances\bin\Debug\net8.0\inheritances.deps.json
+E:\c#_gitcom\inheritances\bin\Debug\net8.0\inheritances.runtimeconfig.json
+E:\c#_gitcom\inheritances\bin\Debug\net8.0\inheritances.dll
+E:\c#_gitcom\inheritances\bin\Debug\net8.0\inheritances.pdb
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.AssemblyInfoInputs.cache
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.AssemblyInfo.cs
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.sourcelink.json
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.dll
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\refint\inheritances.dll
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.pdb
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\inheritances.genruntimeconfig.cache
+E:\c#_gitcom\inheritances\obj\Debug\net8.0\ref\inheritances.dll
