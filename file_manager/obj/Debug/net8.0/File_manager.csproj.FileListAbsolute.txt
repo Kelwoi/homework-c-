@@ -1,0 +1,15 @@
+E:\c#_gitcom\File_manager\bin\Debug\net8.0\File_manager.exe
+E:\c#_gitcom\File_manager\bin\Debug\net8.0\File_manager.deps.json
+E:\c#_gitcom\File_manager\bin\Debug\net8.0\File_manager.runtimeconfig.json
+E:\c#_gitcom\File_manager\bin\Debug\net8.0\File_manager.dll
+E:\c#_gitcom\File_manager\bin\Debug\net8.0\File_manager.pdb
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.AssemblyInfoInputs.cache
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.AssemblyInfo.cs
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.sourcelink.json
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.dll
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\refint\File_manager.dll
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.pdb
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\File_manager.genruntimeconfig.cache
+E:\c#_gitcom\File_manager\obj\Debug\net8.0\ref\File_manager.dll
