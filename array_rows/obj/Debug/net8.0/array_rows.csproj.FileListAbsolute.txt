@@ -1,0 +1,14 @@
+C:\Users\Kelwoi\source\repos\array_rows\bin\Debug\net8.0\array_rows.exe
+C:\Users\Kelwoi\source\repos\array_rows\bin\Debug\net8.0\array_rows.deps.json
+C:\Users\Kelwoi\source\repos\array_rows\bin\Debug\net8.0\array_rows.runtimeconfig.json
+C:\Users\Kelwoi\source\repos\array_rows\bin\Debug\net8.0\array_rows.dll
+C:\Users\Kelwoi\source\repos\array_rows\bin\Debug\net8.0\array_rows.pdb
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.AssemblyInfoInputs.cache
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.AssemblyInfo.cs
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.csproj.CoreCompileInputs.cache
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.dll
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\refint\array_rows.dll
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.pdb
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\array_rows.genruntimeconfig.cache
+C:\Users\Kelwoi\source\repos\array_rows\obj\Debug\net8.0\ref\array_rows.dll
