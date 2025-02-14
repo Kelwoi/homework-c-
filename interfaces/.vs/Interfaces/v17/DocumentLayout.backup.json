@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|c:\\users\\kelwoi\\source\\repos\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|c:\\users\\kelwoi\\source\\repos\\interfaces\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|solutionrelative:arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|c:\\users\\kelwoi\\source\\repos\\interfaces\\icalc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|solutionrelative:icalc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|c:\\users\\kelwoi\\source\\repos\\interfaces\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|solutionrelative:ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|c:\\users\\kelwoi\\source\\repos\\interfaces\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B536E6-DBED-4567-90DF-77AE5693684B}|Interfaces.csproj|solutionrelative:icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ArrayProcessor.cs",
+              "RelativeDocumentMoniker": "ArrayProcessor.cs",
+              "ToolTip": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ArrayProcessor.cs",
+              "RelativeToolTip": "ArrayProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:58:08.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalc2.cs",
+              "DocumentMoniker": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ICalc2.cs",
+              "RelativeDocumentMoniker": "ICalc2.cs",
+              "ToolTip": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ICalc2.cs*",
+              "RelativeToolTip": "ICalc2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:57:40.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\IOutput.cs",
+              "RelativeDocumentMoniker": "IOutput.cs",
+              "ToolTip": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\IOutput.cs*",
+              "RelativeToolTip": "IOutput.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:56:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalc.cs",
+              "DocumentMoniker": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ICalc.cs",
+              "RelativeDocumentMoniker": "ICalc.cs",
+              "ToolTip": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\ICalc.cs*",
+              "RelativeToolTip": "ICalc.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:55:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kelwoi\\source\\repos\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:55:25.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
