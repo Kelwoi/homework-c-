@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#_gitcom\\Fibo_count\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1774B120-BA62-4BE5-A755-8BB3AA5FDD7F}|Fibo_count.csproj|e:\\c#_gitcom\\fibo_count\\fibonaccicounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1774B120-BA62-4BE5-A755-8BB3AA5FDD7F}|Fibo_count.csproj|solutionrelative:fibonaccicounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1774B120-BA62-4BE5-A755-8BB3AA5FDD7F}|Fibo_count.csproj|e:\\c#_gitcom\\fibo_count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1774B120-BA62-4BE5-A755-8BB3AA5FDD7F}|Fibo_count.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibonacciCounter.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\Fibo_count\\FibonacciCounter.cs",
+              "RelativeDocumentMoniker": "FibonacciCounter.cs",
+              "ToolTip": "E:\\c#_gitcom\\Fibo_count\\FibonacciCounter.cs",
+              "RelativeToolTip": "FibonacciCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:10:48.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\Fibo_count\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\c#_gitcom\\Fibo_count\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:10:13.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

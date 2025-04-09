@@ -1,0 +1,15 @@
+E:\c#_gitcom\Fibo_count\bin\Debug\net8.0\Fibo_count.exe
+E:\c#_gitcom\Fibo_count\bin\Debug\net8.0\Fibo_count.deps.json
+E:\c#_gitcom\Fibo_count\bin\Debug\net8.0\Fibo_count.runtimeconfig.json
+E:\c#_gitcom\Fibo_count\bin\Debug\net8.0\Fibo_count.dll
+E:\c#_gitcom\Fibo_count\bin\Debug\net8.0\Fibo_count.pdb
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.AssemblyInfoInputs.cache
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.AssemblyInfo.cs
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.sourcelink.json
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.dll
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\refint\Fibo_count.dll
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.pdb
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\Fibo_count.genruntimeconfig.cache
+E:\c#_gitcom\Fibo_count\obj\Debug\net8.0\ref\Fibo_count.dll
