@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sentence_analizer/1.0.0": {
+        "runtime": {
+          "sentence_analizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sentence_analizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
