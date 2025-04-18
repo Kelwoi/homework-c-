@@ -1,0 +1,15 @@
+E:\c#_gitcom\paralel_prog\bin\Debug\net8.0\paralel_prog.exe
+E:\c#_gitcom\paralel_prog\bin\Debug\net8.0\paralel_prog.deps.json
+E:\c#_gitcom\paralel_prog\bin\Debug\net8.0\paralel_prog.runtimeconfig.json
+E:\c#_gitcom\paralel_prog\bin\Debug\net8.0\paralel_prog.dll
+E:\c#_gitcom\paralel_prog\bin\Debug\net8.0\paralel_prog.pdb
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.AssemblyInfoInputs.cache
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.AssemblyInfo.cs
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.csproj.CoreCompileInputs.cache
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.sourcelink.json
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.dll
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\refint\paralel_prog.dll
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.pdb
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\paralel_prog.genruntimeconfig.cache
+E:\c#_gitcom\paralel_prog\obj\Debug\net8.0\ref\paralel_prog.dll
