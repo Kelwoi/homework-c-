@@ -1,0 +1,32 @@
+﻿<Window x:Class="SMTP_sender.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="250" Width="350"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="0 0 0 10">
+            <TextBlock Text="Email" Margin="0 0 0 5"/>
+            <TextBox Name="EmailBox" Height="25"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="0 0 0 10">
+            <TextBlock Text="Пароль" Margin="0 0 0 5"/>
+            <TextBox x:Name="VisiblePasswordBox" Height="25" Visibility="Collapsed" />
+            <PasswordBox Name="PasswordBox" Height="25"/>
+            <Button Content="show password" Width="100" Height="25" HorizontalAlignment="Left"
+                Click="TogglePasswordVisibility_Click"/>
+        </StackPanel>
+
+        <Button Grid.Row="2" Content="Логін" Height="30" Width="100" HorizontalAlignment="Center" Click="Login_Click"/>
+    </Grid>
+</Window>
+
