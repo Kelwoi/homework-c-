@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Streets>
+	<Entry>
+		<Index>01001</Index>
+		<Street>Хрещатик</Street>
+	</Entry>
+	<Entry>
+		<Index>01001</Index>
+		<Street>Інститутська</Street>
+	</Entry>
+	<Entry>
+		<Index>02090</Index>
+		<Street>Бориспільська</Street>
+	</Entry>
+</Streets>

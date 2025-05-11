@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#_gitcom\\SocketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1501AC02-7DB1-40E8-943D-B7D9490D4088}|Client\\Client.csproj|e:\\c#_gitcom\\socketapp\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1501AC02-7DB1-40E8-943D-B7D9490D4088}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E4548-51BA-4B8F-94D4-D76112BA4FEC}|Server\\Server.csproj|e:\\c#_gitcom\\socketapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2E4548-51BA-4B8F-94D4-D76112BA4FEC}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1501AC02-7DB1-40E8-943D-B7D9490D4088}|Client\\Client.csproj|e:\\c#_gitcom\\socketapp\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1501AC02-7DB1-40E8-943D-B7D9490D4088}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\SocketApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "E:\\c#_gitcom\\SocketApp\\Server\\Program.cs*",
+              "RelativeToolTip": "Server\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:42:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\c#_gitcom\\SocketApp\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "E:\\c#_gitcom\\SocketApp\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T14:37:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\SocketApp\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\c#_gitcom\\SocketApp\\Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:37:14.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
