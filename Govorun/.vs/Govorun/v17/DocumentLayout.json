@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#_gitcom\\Govorun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3D834-FE14-49ED-B33B-995BBBB71C4E}|Client\\Client.csproj|e:\\c#_gitcom\\govorun\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3D834-FE14-49ED-B33B-995BBBB71C4E}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6AF07A-FAB5-4120-B729-1246DB688CDD}|Server\\Server.csproj|e:\\c#_gitcom\\govorun\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6AF07A-FAB5-4120-B729-1246DB688CDD}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3D834-FE14-49ED-B33B-995BBBB71C4E}|Client\\Client.csproj|e:\\c#_gitcom\\govorun\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFB3D834-FE14-49ED-B33B-995BBBB71C4E}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\Govorun\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "E:\\c#_gitcom\\Govorun\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:15:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\c#_gitcom\\Govorun\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "E:\\c#_gitcom\\Govorun\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-25T20:09:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\c#_gitcom\\Govorun\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\c#_gitcom\\Govorun\\Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:09:33.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
