@@ -1,0 +1,64 @@
+﻿<Window x:Class="HttpFileDownloader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:HttpFileDownloader"
+        Title="HTTP File Downloader" Height="450" Width="700"
+        Background="#FAFAFA" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="#0078D7"/>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="8,4"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="{StaticResource AccentBrush}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="6"/>
+        </Style>
+        <Style TargetType="ListView">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="13"/>
+        </Style>
+        <local:StatusToVisibilityConverter x:Key="StatusToVisibilityConverter"/>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Enter URL to download:" Margin="10,10,10,0" FontSize="16" FontWeight="Bold"/>
+
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="1">
+            <TextBox x:Name="UrlTextBox" Width="400" Height="30" />
+            <Button Content="Download" Width="100" Click="DownloadButton_Click"/>
+        </StackPanel>
+
+        <ListView x:Name="DownloadsList" Grid.Row="2" Height="300">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="File Name" DisplayMemberBinding="{Binding FileName}" Width="180"/>
+                    <GridViewColumn Header="Size" DisplayMemberBinding="{Binding Size}" Width="80"/>
+                    <GridViewColumn Header="Status" DisplayMemberBinding="{Binding Status}" Width="140"/>
+                    <GridViewColumn Header="Action" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Cancel" Click="CancelDownload_Click"
+                                        Visibility="{Binding Status, Converter={StaticResource StatusToVisibilityConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
